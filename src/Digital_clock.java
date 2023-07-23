@@ -14,6 +14,7 @@ import javax.swing.Timer;
 public class Digital_clock extends JFrame{
     private JLabel timeLabel ;
     private JLabel dateLabel;
+    //KLEM FIH KLEM
 
     public Digital_clock(){
         //Window Measures+Close Event+Window Flexibility
